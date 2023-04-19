@@ -10,9 +10,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [ggformat](https://github.com/jtr13/ggformat) -- RStudio add-in to pretty up your ggplot2 code 
 
-[redav](https://github.com/jtr13/redav) -- two functions: one for plotting missing values and one for biplots. More to come.
+[redav](https://github.com/jtr13/redav) -- two useful functions: one for plotting biplots and the other for plotting missing values. More to come.
 
 
 ### Bookdown Templates
 
-[IMLVtemplate](www.github.com/jtr13/IMLVtemplate) --- template for Interpretable Machine Learning w/ Visualization class
+[bookdown-template](https://github.com/jtr13/bookdown-template) --- general bookdown template, to get started see [How to create a bookdown book in 5 minutes](https://www.youtube.com/watch?v=m5D-yoH416Y)
+
+[EDAVtemplate](https://github.com/jtr13/EDAVtemplate) --- template for Exploratory Data Analysis and Visualization class
+
+[IMLVtemplate](https://github.com/jtr13/IMLVtemplate) --- template for Interpretable Machine Learning w/ Visualization class
