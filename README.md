@@ -12,6 +12,16 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [redav](https://github.com/jtr13/redav) -- two useful functions: one for plotting biplots and the other for plotting missing values. More to come.
 
+### Book
+
+[d3book](https://github.com/jtr13/d3book) -- source code for [D3 for R Users](https://jtr13.github.io/d3book)
+
+### Course Resources
+
+[1201](https://github.com/jtr13/1201) -- source code for [1201.info](https://1201.info)
+
+[edav2](https://github.com/jtr13/edav2) -- source code for [edav.info](https://edav.info)
+
 
 ### Bookdown Templates
 
