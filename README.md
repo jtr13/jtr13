@@ -8,9 +8,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ### Packages
 
-[ggformat](jtr13/ggformat) -- RStudio add-in to pretty up your ggplot2 code 
+[ggformat](https://github.com/jtr13/ggformat) -- RStudio add-in to pretty up your ggplot2 code 
 
-[redav](www.github.com/jtr13/redav) -- two functions: one for plotting missing values and one for biplots. More to come.
+[redav](https://github.com/jtr13/redav) -- two functions: one for plotting missing values and one for biplots. More to come.
 
 
 ### Bookdown Templates
