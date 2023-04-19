@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Packages
 
-[ggformat](www.github.com/jtr13/ggformat) -- RStudio add-in to pretty up your ggplot2 code 
+[ggformat](ggformat) -- RStudio add-in to pretty up your ggplot2 code 
 
 [redav](www.github.com/jtr13/redav) -- two functions: one for plotting missing values and one for biplots. More to come.
 
