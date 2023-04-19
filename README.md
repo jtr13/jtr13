@@ -1,4 +1,4 @@
-## A Guide to my GitHub
+## A Guide to my GitHub repos
 
 <!---
 jtr13/jtr13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
