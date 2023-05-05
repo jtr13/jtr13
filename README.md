@@ -47,6 +47,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [BRL-workshops](https://github.com/jtr13/BRL-workshops) -- Columbia BRL: EDA / Data Transformation (2019)
 
-[RLadies](https://github.com/jtr13/RLadies/) -- RLadies NYC workshops: purrr (2018), heatmaps (2017)
+[RLadies](https://github.com/jtr13/RLadies/) -- RLadies NYC: purrr (2018), heatmaps (2017)
 
 
