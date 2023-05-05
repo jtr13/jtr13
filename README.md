@@ -32,3 +32,21 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 [EDAVtemplate](https://github.com/jtr13/EDAVtemplate) --- template for Exploratory Data Analysis and Visualization class
 
 [IMLVtemplate](https://github.com/jtr13/IMLVtemplate) --- template for Interpretable Machine Learning w/ Visualization class
+
+### 🧰 Workshop Materials
+
+[nycasa](https://github.com/jtr13/nycasa/) -- ASA NYC Metro: Exploratory Data Analysis with R (2023)
+
+[pkgdev](https://github.com/jtr13/pkgdev) -- RForwards: R Package Development Workshop (2022)
+
+[graphcat21](https://github.com/jtr13/graphcat21/) -- Graphing Multivariate Categorical Data in R (with Ludmila Janda) (2021)
+
+[graphcat](https://github.com/jtr13/graphcat/) -- useR2021: Graphing Multivariate Categorical Data in R (with Ludmila Janda) (2021)
+
+[panelplots](https://github.com/jtr13/panelplots) -- ASA NYC Metro: Panel Plots (with Naomi Robbins) (2019)
+
+[BRL-workshops](https://github.com/jtr13/BRL-workshops) -- Columbia BRL: EDA / Data Transformation (2019)
+
+[RLadies](https://github.com/jtr13/RLadies/) -- RLadies NYC workshops: purrr (2018), heatmaps (2017)
+
+
