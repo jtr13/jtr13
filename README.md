@@ -12,6 +12,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [redav](https://github.com/jtr13/redav) -- two useful functions: one for plotting biplots and the other for plotting missing values. More to come.
 
+### 🎨 Other Useful Stuff
+
+[syntax](https://github.com/jtr13/syntax) -- Quarto syntax highlighting theme examples (plus the option to create your own!)
+
 ### 📚 Online Books 
 
 [d3book](https://github.com/jtr13/d3book) -- source code for [D3 for R Users](https://jtr13.github.io/d3book)
