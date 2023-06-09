@@ -28,14 +28,17 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [edav2](https://github.com/jtr13/edav2) -- source code for [edav.info](https://edav.info)
 
+### 🏗️ Quarto Template
+
+[website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages
 
 ### 🏗️ Bookdown Templates
 
-[bookdown-template](https://github.com/jtr13/bookdown-template) --- general bookdown template, to get started see [How to create a bookdown book in 5 minutes](https://www.youtube.com/watch?v=m5D-yoH416Y)
+[bookdown-template](https://github.com/jtr13/bookdown-template) -- general bookdown template, to get started see [How to create a bookdown book in 5 minutes](https://www.youtube.com/watch?v=m5D-yoH416Y)
 
-[EDAVtemplate](https://github.com/jtr13/EDAVtemplate) --- template for Exploratory Data Analysis and Visualization class
+[EDAVtemplate](https://github.com/jtr13/EDAVtemplate) -- template for Exploratory Data Analysis and Visualization class
 
-[IMLVtemplate](https://github.com/jtr13/IMLVtemplate) --- template for Interpretable Machine Learning w/ Visualization class
+[IMLVtemplate](https://github.com/jtr13/IMLVtemplate) -- template for Interpretable Machine Learning w/ Visualization class
 
 ### 🧰 Workshop Materials
 
