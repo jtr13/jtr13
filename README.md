@@ -30,7 +30,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ### 🏗️ Quarto Template
 
-[website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages
+[website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages [Video tutorial](https://www.youtube.com/watch?v=YN75YXaLFGM)
 
 ### 🏗️ Bookdown Templates
 
