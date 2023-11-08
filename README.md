@@ -28,11 +28,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [edav2](https://github.com/jtr13/edav2) -- source code for [edav.info](https://edav.info)
 
-### 🏗️ Quarto Template
+### 🏗️ Quarto Templates
+
+[quarto-edav-template](https://github.com/jtr13/quarto-edav-template) -- template for creating a Quarto book in RStudio, published on GitHub Pages for EDAV final project [Video tutorial](https://youtu.be/emgS2JI4jCk)
 
 [website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages [Video tutorial](https://www.youtube.com/watch?v=YN75YXaLFGM)
 
-### 🏗️ Bookdown Templates
+### 🏗️ Bookdown Templates (outdated, Quarto recommended instead)
 
 [bookdown-template](https://github.com/jtr13/bookdown-template) -- general bookdown template, to get started see [How to create a bookdown book in 5 minutes](https://www.youtube.com/watch?v=m5D-yoH416Y)
 
