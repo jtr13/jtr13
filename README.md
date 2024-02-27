@@ -44,7 +44,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ### 🧰 Workshop Materials
 
-[sdss2023](https://github.com/jtr13/sdss2023/) -- SDSS: Effective Graphs with ggplot2 (2023)
+[csp2024](https://github.com/jtr13/csp2024/) -- CSP: Effective Graphs with ggplot2 (New Orleans, 2024)
+
+[sdss2023](https://github.com/jtr13/sdss2023/) -- SDSS: Effective Graphs with ggplot2 (St. Louis, 2023)
 
 [nycasa](https://github.com/jtr13/nycasa/) -- ASA NYC Metro: Exploratory Data Analysis with R (2023)
 
