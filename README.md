@@ -12,15 +12,18 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [redav](https://github.com/jtr13/redav) -- two useful functions: one for plotting biplots and the other for plotting missing values. More to come.
 
+[wonderapi](https://github.com/socdatar/wonderapi) -- facilitates calling the CDC Wonder API from R to import data 
+
+### 📚 Online Books 
+
+[D3 for R Users](https://jtr13.github.io/d3book) [source code](https://github.com/jtr13/d3book)
+
+[R Dataset Guide](https://jtr13.github.io/vizdata/) -- provides info about number and type of variables in built-in datasets, helpful for creating exercises or lecture examples [source code](https://github.com/jtr13/vizdata)
+
 ### 🎨 Other Useful Stuff
 
 [syntax](https://github.com/jtr13/syntax) -- Quarto syntax highlighting theme examples (plus the option to create your own!)
 
-### 📚 Online Books 
-
-[d3book](https://github.com/jtr13/d3book) -- source code for [D3 for R Users](https://jtr13.github.io/d3book)
-
-[vizdata](https://github.com/jtr13/vizdata) -- source code for [R Dataset Guide](https://jtr13.github.io/vizdata/) -- provides info about number and type of variables in built-in datasets, helpful for creating exercises or lecture examples
 
 ### 🧑‍🏫 Course Resources
 
