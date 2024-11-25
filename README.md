@@ -35,7 +35,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [quarto-edav-template](https://github.com/jtr13/quarto-edav-template) -- template for creating a Quarto book in RStudio, published on GitHub Pages for EDAV final project [Video tutorial](https://youtu.be/emgS2JI4jCk)
 
-     [Sample project](https://jtr13.github.io/birds/) created from this template
+   [Sample project](https://jtr13.github.io/birds/) created from this template
 
 [website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages [Video tutorial](https://www.youtube.com/watch?v=YN75YXaLFGM)
 
