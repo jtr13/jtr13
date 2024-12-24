@@ -33,13 +33,17 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ### 🏗️ Quarto Templates
 
-[quarto-edav-template](https://github.com/jtr13/quarto-edav-template) -- template for creating a Quarto book in RStudio, published on GitHub Pages for EDAV final project [Video tutorial](https://youtu.be/emgS2JI4jCk)
+[quarto-edav-template](https://github.com/jtr13/quarto-edav-template) -- template for creating a Quarto book in RStudio, published on GitHub Pages for EDAV final project
+
+---> [Video tutorial](https://youtu.be/emgS2JI4jCk)
 
 ---> [Sample project](https://jtr13.github.io/birds/) created from this template
 
-[website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages [Video tutorial](https://www.youtube.com/watch?v=YN75YXaLFGM)
+[website-template](https://github.com/jtr13/website-template) -- template for creating a Quarto web site in RStudio, published on GitHub Pages
 
-### 🏗️ Bookdown Templates (outdated, Quarto recommended instead)
+---> [Video tutorial](https://www.youtube.com/watch?v=YN75YXaLFGM)
+
+### 🏗️ Bookdown Templates
 
 [bookdown-template](https://github.com/jtr13/bookdown-template) -- general bookdown template, to get started see [How to create a bookdown book in 5 minutes](https://www.youtube.com/watch?v=m5D-yoH416Y)
 
