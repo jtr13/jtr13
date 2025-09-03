@@ -12,6 +12,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [redav](https://github.com/jtr13/redav) -- two useful functions: one for plotting biplots and the other for plotting missing values. More to come.
 
+[annotreer](https://github.com/jtr13/annotreer) -- visualizes decision tree calculations, useful as a teaching tool
+
 [wonderapi](https://github.com/socdatar/wonderapi) -- facilitates calling the CDC Wonder API from R to import data 
 
 ### 📚 Online Books 
