@@ -16,6 +16,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [wonderapi](https://github.com/socdatar/wonderapi) -- facilitates calling the CDC Wonder API from R to import data 
 
+### 🔆 Shiny Apps
+
+[ggplot2 ecosystem component explorer](https://joycerobbins.shinyapps.io/extensions-shiny/) [source code](https://github.com/jtr13/extensions-shiny) --
+
 ### 📚 Online Books 
 
 [D3 for R Users](https://jtr13.github.io/d3book) [source code](https://github.com/jtr13/d3book)
@@ -54,6 +58,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 [IMLVtemplate](https://github.com/jtr13/IMLVtemplate) -- template for Interpretable Machine Learning w/ Visualization class
 
 ### 🧰 Workshop Materials
+
+[UofL2025](https://github.com/jtr13/UofL2025) -- ASA Short Course: Effective Graphs with ggplot2 (Louisville, 2025)
 
 [kc2025](https://github.com/jtr13/kc2025) -- ASA Short Course: Effective Graphs with ggplot2 (Kansas City, 2025)
 
