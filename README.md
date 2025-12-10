@@ -18,7 +18,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ### 🔆 Shiny Apps
 
-[ggplot2 ecosystem component explorer](https://joycerobbins.shinyapps.io/extensions-shiny/) [source code](https://github.com/jtr13/extensions-shiny) --
+[ggplot2 ecosystem component explorer](https://joycerobbins.shinyapps.io/extensions-shiny/) -- explore geoms, stats, coords, facets, scales, and themes in `ggplot2` and in grammar extension packages [source code](https://github.com/jtr13/extensions-shiny)
 
 ### 📚 Online Books 
 
