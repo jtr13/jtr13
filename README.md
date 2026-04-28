@@ -41,6 +41,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [quarto-book-gha](https://github.com/jtr13/quarto-book-gha) -- template for creating a Quarto book in RStudio, published on GitHub Pages (GitHub Actions workflow renders book)
 
+&nbsp; &nbsp; 🎥 [Video tutorial][https://www.youtube.com/watch?v=o1vncR-CN1s]
+
 [quarto-edav-template](https://github.com/jtr13/quarto-edav-template) -- template for creating a Quarto book in RStudio, published on GitHub Pages (book rendered locally and .html files pushed to GitHub)
 
 &nbsp; &nbsp; 🎥 [Video tutorial](https://youtu.be/emgS2JI4jCk)
