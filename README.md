@@ -85,4 +85,18 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 [RLadies](https://github.com/jtr13/RLadies/) -- RLadies NYC: purrr (2018), heatmaps (2017)
 
+### 👩‍💻 Class "Community Contribution" Projects for Stat 5702 Exploratory Data Analysis and Visualization
+
+(more coming...)
+
+[cc22spring] (https://jtr13.github.io/cc22spring/) -- Spring 2022 
+
+[cc21fall2](https://jtr13.github.io/cc21fall2/) -- Fall 2021, Tues/Thurs section
+
+[cc21fall1](https://jtr13.github.io/cc21fall1/) -- Fall 2021, Mon/Wed section
+
+[cc20](https://jtr13.github.io/cc19/) -- Fall 2020
+
+[cc19](https://jtr13.github.io/cc19/) -- Fall 2019
+
 
